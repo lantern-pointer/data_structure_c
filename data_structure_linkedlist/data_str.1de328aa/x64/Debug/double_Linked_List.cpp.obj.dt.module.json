@@ -1,0 +1,14 @@
+{
+    "version": 1,
+    "revision": 0,
+    "rules": [
+        {
+            "primary-output": "data_str.1de328aa\\x64\\Debug\\double_Linked_List.obj",
+            "outputs": [
+                "data_str.1de328aa\\x64\\Debug\\double_Linked_List.cpp.obj.dt.module.json",
+                "data_str.1de328aa\\x64\\Debug\\double_Linked_List.cpp.obj.dt.d.json"
+            ],
+            "requires": []
+        }
+    ]
+}

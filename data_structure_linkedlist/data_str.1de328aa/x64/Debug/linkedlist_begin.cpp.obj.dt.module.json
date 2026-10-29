@@ -1,0 +1,14 @@
+{
+    "version": 1,
+    "revision": 0,
+    "rules": [
+        {
+            "primary-output": "data_str.1de328aa\\x64\\Debug\\linkedlist_begin.obj",
+            "outputs": [
+                "data_str.1de328aa\\x64\\Debug\\linkedlist_begin.cpp.obj.dt.module.json",
+                "data_str.1de328aa\\x64\\Debug\\linkedlist_begin.cpp.obj.dt.d.json"
+            ],
+            "requires": []
+        }
+    ]
+}

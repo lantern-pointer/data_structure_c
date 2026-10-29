@@ -1,0 +1,3 @@
+﻿  double_Linked_List.cpp
+D:\C_code_demo\data_structure_linkedlist\double_Linked_List.cpp(3,16): warning C4091: “typedef ”: 没有声明变量时忽略“ListNode”的左侧
+  data_structure_linkedlist.vcxproj -> D:\C_code_demo\data_structure_linkedlist\x64\Debug\data_structure_linkedlist.exe

@@ -1,0 +1,25 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "d:\\c_code_demo\\data_structure_linkedlist\\double_linked_list.cpp",
+        "ProvidedModule": "",
+        "Includes": [
+            "d:\\windows kits\\10\\include\\10.0.26100.0\\ucrt\\stdio.h",
+            "d:\\windows kits\\10\\include\\10.0.26100.0\\ucrt\\corecrt.h",
+            "d:\\develop\\visual stdio 2026\\community\\vc\\tools\\msvc\\14.51.36231\\include\\vcruntime.h",
+            "d:\\develop\\visual stdio 2026\\community\\vc\\tools\\msvc\\14.51.36231\\include\\sal.h",
+            "d:\\develop\\visual stdio 2026\\community\\vc\\tools\\msvc\\14.51.36231\\include\\concurrencysal.h",
+            "d:\\develop\\visual stdio 2026\\community\\vc\\tools\\msvc\\14.51.36231\\include\\vadefs.h",
+            "d:\\windows kits\\10\\include\\10.0.26100.0\\ucrt\\corecrt_wstdio.h",
+            "d:\\windows kits\\10\\include\\10.0.26100.0\\ucrt\\corecrt_stdio_config.h",
+            "d:\\windows kits\\10\\include\\10.0.26100.0\\ucrt\\stdlib.h",
+            "d:\\windows kits\\10\\include\\10.0.26100.0\\ucrt\\corecrt_malloc.h",
+            "d:\\windows kits\\10\\include\\10.0.26100.0\\ucrt\\corecrt_search.h",
+            "d:\\windows kits\\10\\include\\10.0.26100.0\\ucrt\\stddef.h",
+            "d:\\windows kits\\10\\include\\10.0.26100.0\\ucrt\\corecrt_wstdlib.h",
+            "d:\\develop\\visual stdio 2026\\community\\vc\\tools\\msvc\\14.51.36231\\include\\limits.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}
